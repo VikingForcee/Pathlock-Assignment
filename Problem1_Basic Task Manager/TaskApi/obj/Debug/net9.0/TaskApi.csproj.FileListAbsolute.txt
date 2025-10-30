@@ -1,0 +1,54 @@
+C:\Competitions\Pathlock\TaskApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Competitions\Pathlock\TaskApi\bin\Debug\net9.0\appsettings.json
+C:\Competitions\Pathlock\TaskApi\bin\Debug\net9.0\TaskApi.staticwebassets.endpoints.json
+C:\Competitions\Pathlock\TaskApi\bin\Debug\net9.0\TaskApi.exe
+C:\Competitions\Pathlock\TaskApi\bin\Debug\net9.0\TaskApi.deps.json
+C:\Competitions\Pathlock\TaskApi\bin\Debug\net9.0\TaskApi.runtimeconfig.json
+C:\Competitions\Pathlock\TaskApi\bin\Debug\net9.0\TaskApi.dll
+C:\Competitions\Pathlock\TaskApi\bin\Debug\net9.0\TaskApi.pdb
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\TaskApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\TaskApi.AssemblyInfoInputs.cache
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\TaskApi.AssemblyInfo.cs
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\TaskApi.csproj.CoreCompileInputs.cache
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\TaskApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\scopedcss\bundle\TaskApi.styles.css
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\TaskApi.dll
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\refint\TaskApi.dll
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\TaskApi.pdb
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\TaskApi.genruntimeconfig.cache
+C:\Competitions\Pathlock\TaskApi\obj\Debug\net9.0\ref\TaskApi.dll
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\bin\Debug\net9.0\appsettings.json
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\bin\Debug\net9.0\TaskApi.staticwebassets.endpoints.json
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\bin\Debug\net9.0\TaskApi.exe
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\bin\Debug\net9.0\TaskApi.deps.json
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\bin\Debug\net9.0\TaskApi.runtimeconfig.json
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\bin\Debug\net9.0\TaskApi.dll
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\bin\Debug\net9.0\TaskApi.pdb
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\TaskApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\TaskApi.AssemblyInfoInputs.cache
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\TaskApi.AssemblyInfo.cs
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\TaskApi.csproj.CoreCompileInputs.cache
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\TaskApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\scopedcss\bundle\TaskApi.styles.css
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\TaskApi.dll
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\refint\TaskApi.dll
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\TaskApi.pdb
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\TaskApi.genruntimeconfig.cache
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\ref\TaskApi.dll
