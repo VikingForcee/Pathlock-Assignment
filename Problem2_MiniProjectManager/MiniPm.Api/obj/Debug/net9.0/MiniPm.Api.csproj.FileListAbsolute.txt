@@ -1,0 +1,9 @@
+C:\Competitions\Problem2_MiniProjectManager\MiniPm.Api\obj\Debug\net9.0\MiniPm.Api.csproj.AssemblyReference.cache
+C:\Competitions\Problem2_MiniProjectManager\MiniPm.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Competitions\Problem2_MiniProjectManager\MiniPm.Api\obj\Debug\net9.0\MiniPm.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Competitions\Problem2_MiniProjectManager\MiniPm.Api\obj\Debug\net9.0\MiniPm.Api.AssemblyInfoInputs.cache
+C:\Competitions\Problem2_MiniProjectManager\MiniPm.Api\obj\Debug\net9.0\MiniPm.Api.AssemblyInfo.cs
+C:\Competitions\Problem2_MiniProjectManager\MiniPm.Api\obj\Debug\net9.0\MiniPm.Api.csproj.CoreCompileInputs.cache
+C:\Competitions\Problem2_MiniProjectManager\MiniPm.Api\obj\Debug\net9.0\MiniPm.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Competitions\Problem2_MiniProjectManager\MiniPm.Api\obj\Debug\net9.0\MiniPm.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Competitions\Problem2_MiniProjectManager\MiniPm.Api\obj\Debug\net9.0\MiniPm.Api.sourcelink.json
