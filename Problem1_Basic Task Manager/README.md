@@ -57,10 +57,10 @@ http://localhost:5173
 
 ## Images 
 
-![Main Page](Images/p1Image1.png)
-![Tasks Added](Images/p1Image2.png)
-![Active Tasks](Images/p1Image3.png)
-![Completed Tasks](Images/p1Image4.png)
+![Main Page](../Images/p1Image1.png)
+![Tasks Added](../Images/p1Image2.png)
+![Active Tasks](../Images/p1Image3.png)
+![Completed Tasks](../Images/p1Image4.png)
 
 ## Features
 
@@ -93,20 +93,6 @@ Before running this application, ensure you have the following installed:
 - [.NET SDK 8.0](https://dotnet.microsoft.com/download) or later
 - [Node.js 18+](https://nodejs.org/) and npm
 - Git (for cloning the repository)
-
----
-
-## Application Architecture
-
-### API Endpoints
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | `/api/tasks` | Retrieve all tasks |
-| GET | `/api/tasks/{id}` | Retrieve specific task |
-| POST | `/api/tasks` | Create new task |
-| PUT | `/api/tasks/{id}` | Update existing task |
-| DELETE | `/api/tasks/{id}` | Delete task |
 
 ### Data Flow
 
