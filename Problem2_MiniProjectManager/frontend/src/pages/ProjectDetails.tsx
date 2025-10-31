@@ -256,7 +256,7 @@ export default function ProjectDetails() {
             />
             <button
               onClick={handleAddTask}
-              className="w-full sm:w-auto px-6 py-3 bg-indigo-600 dark:bg-indigo-500 text-white font-medium rounded-lg hover:bg-indigo-700 dark:hover:bg-indigo-600 transition-colors shadow-md hover:shadow-lg flex items-center justify-center gap-2"
+              className="w-full sm:w-auto px-6 py-3 bg-indigo-600 dark:bg-indigo-500 text-gray-400 font-medium rounded-lg hover:bg-indigo-700 dark:hover:bg-indigo-600 transition-colors shadow-md hover:shadow-lg flex items-center justify-center gap-2"
             >
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />

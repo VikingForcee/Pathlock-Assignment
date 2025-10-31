@@ -35,8 +35,9 @@ A full-stack task management web application built with:
 - Data persistence through backend and local storage
 - Simple, responsive design using Bootstrap
 
+![Main Page](Images/p1Image2.png)
 
-## Mini Project Manager  
+## Project 2 - Mini Project Manager  
 _A Full-Stack Web Application for Managing Projects and Tasks_
 
 ## Overview
@@ -47,6 +48,7 @@ It allows users to register, log in securely using JWT authentication, and manag
 This project fulfills the requirements of **Home Assignment 2** by implementing authentication, relational entities, routing, and complete CRUD functionality. Also implemented Smart Schedule with Time based management.
 
 ---
+![Tasks Added](Images/p2Image2.png)
 
 ## Features
 

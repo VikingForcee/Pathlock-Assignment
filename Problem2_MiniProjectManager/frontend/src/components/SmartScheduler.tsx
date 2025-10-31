@@ -271,7 +271,7 @@ export default function SmartScheduler({ projectId, onClose }: SchedulerProps) {
                 </button>
                 <button
                   onClick={onClose}
-                  className="flex-1 px-6 py-3 bg-indigo-600 text-white font-medium rounded-lg hover:bg-indigo-700 transition-colors"
+                  className="flex-1 px-6 py-3 bg-indigo-600 text-gray-400 font-medium rounded-lg hover:bg-indigo-700 transition-colors"
                 >
                   Done
                 </button>
