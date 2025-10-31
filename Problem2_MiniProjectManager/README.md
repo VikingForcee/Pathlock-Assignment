@@ -43,11 +43,11 @@ http://localhost:5173
 
 ## Images 
 
-![Main Page](../Images/p2Image1.png)
-![Tasks Added](../Images/p2Image2.png)
-![Active Tasks](../Images/p2Image3.png)
-![Completed Tasks](../Images/p2Image4.png)
-![Completed Tasks](../Images/p2Image5.png)
+![Main Page](../Images/p2Img1.png)
+![Tasks Added](../Images/p2Img2.png)
+![Active Tasks](../Images/p2Img3.png)
+![Completed Tasks](../Images/p2Img4.png)
+![Completed Tasks](../Images/p2Img5.png)
 
 
 ## Overview
@@ -88,7 +88,7 @@ This project fulfills the requirements of **Home Assignment 2 (20 Credits)** by 
 - Project details page with all tasks  
 - JWT stored in browser and reused for authenticated API calls  
 - React Router for page navigation  
-
+- Tailwind
 ---
 
 ## 🏗️ Tech Stack

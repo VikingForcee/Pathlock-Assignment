@@ -68,7 +68,7 @@ http://localhost:5173
 - **Task Filtering** — View all tasks, active tasks, or completed tasks
 - **Dual Persistence** — Tasks stored in both backend (in-memory) and frontend (localStorage)
 - **RESTful API** — Clean API architecture with proper HTTP methods
-- **Modern UI** — Responsive React-based interface with theme responsive background.
+- **Modern UI** — Responsive React-based interface
 
 ---
 
@@ -83,7 +83,7 @@ http://localhost:5173
 - React 18+
 - Vite (build tool)
 - Modern JavaScript (ES6+)
-- tailwind
+
 ---
 
 ## Prerequisites

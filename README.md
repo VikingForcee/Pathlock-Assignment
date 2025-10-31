@@ -48,7 +48,7 @@ It allows users to register, log in securely using JWT authentication, and manag
 This project fulfills the requirements of **Home Assignment 2** by implementing authentication, relational entities, routing, and complete CRUD functionality. Also implemented Smart Schedule with Time based management.
 
 ---
-![Tasks Added](Images/p2Image2.png)
+![Tasks Added](Images/p2Img2.png)
 
 ## Features
 
