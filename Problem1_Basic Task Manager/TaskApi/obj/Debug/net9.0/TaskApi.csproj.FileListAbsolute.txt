@@ -52,3 +52,4 @@ C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\refint\Task
 C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\TaskApi.pdb
 C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\TaskApi.genruntimeconfig.cache
 C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\ref\TaskApi.dll
+C:\Competitions\Problem1_Basic Task Manager\TaskApi\obj\Debug\net9.0\TaskApi.sourcelink.json

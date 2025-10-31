@@ -4,6 +4,64 @@ A full-stack task management web application built with .NET 8.0 and React. This
 
 ---
 
+## Run Instructions
+
+### 1. Backend Configuration
+
+#### Navigate to Backend Directory (TaskApi)
+```bash
+cd TaskApi
+```
+
+#### Restore Dependencies & Run
+```bash
+dotnet restore
+dotnet run
+```
+
+The API server will start at:
+```
+http://localhost:5026
+```
+
+#### Verify Backend is Running
+```bash
+curl http://localhost:5026/api/tasks
+```
+
+Expected response: `[]` (empty array if no tasks exist)
+
+### 2. Frontend Configuration 
+
+#### Open New Terminal Window
+
+#### Navigate to Frontend Directory (task-client)
+```bash
+cd task-client
+```
+
+#### Install Dependencies
+```bash
+npm install
+```
+
+#### Start Development Server
+```bash
+npm run dev
+```
+
+The frontend application will start at:
+```
+http://localhost:5173
+```
+
+## Images 
+
+![Main Page](Images/p1Image1.png)
+![Tasks Added](Images/p1Image2.png)
+![Active Tasks](Images/p1Image3.png)
+![Completed Tasks](Images/p1Image4.png)
+
 ## Features
 
 - **Create, Read, Update, Delete (CRUD)** — Full task management capabilities
@@ -38,67 +96,6 @@ Before running this application, ensure you have the following installed:
 
 ---
 
-## Installation & Setup
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/<your-username>/Pathlock-Competition.git
-cd Pathlock-Competition/Project1_TaskManager
-```
-
-Alternatively, download the repository as a ZIP file and extract it to your desired location.
-
-### 2. Backend Configuration
-
-#### Navigate to Backend Directory
-```bash
-cd backend
-```
-
-#### Restore Dependencies & Run
-```bash
-dotnet restore
-dotnet run
-```
-
-The API server will start at:
-```
-http://localhost:5026
-```
-
-#### Verify Backend is Running
-```bash
-curl http://localhost:5026/api/tasks
-```
-
-Expected response: `[]` (empty array if no tasks exist)
-
-### 3. Frontend Configuration
-
-#### Open New Terminal Window
-
-#### Navigate to Frontend Directory
-```bash
-cd frontend
-```
-
-#### Install Dependencies
-```bash
-npm install
-```
-
-#### Start Development Server
-```bash
-npm run dev
-```
-
-The frontend application will start at:
-```
-http://localhost:5173
-```
-
----
-
 ## Application Architecture
 
 ### API Endpoints
@@ -118,34 +115,6 @@ http://localhost:5173
 3. Backend processes requests and updates in-memory storage
 4. Response sent back to frontend
 5. Frontend updates UI and syncs with localStorage
-
----
-
-## Project Structure
-```
-Project1_TaskManager/
-│
-├── backend/
-│   ├── Program.cs              # Main application entry point
-│   ├── TaskRepository.cs       # Data access layer
-│   ├── Models/                 # Data models
-│   ├── Controllers/            # API controllers
-│   └── Properties/
-│       └── launchSettings.json # Server configuration
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/         # React components
-│   │   ├── services/           # API service layer
-│   │   ├── App.jsx             # Root component
-│   │   └── main.jsx            # Application entry point
-│   ├── package.json            # Frontend dependencies
-│   ├── vite.config.js          # Vite configuration
-│   └── index.html              # HTML template
-│
-└── README.md                   # This file
-```
-
 ---
 
 ## Troubleshooting
@@ -179,7 +148,7 @@ Project1_TaskManager/
 
 **Solution:**
 ```bash
-cd frontend
+cd task-client
 rm -rf node_modules package-lock.json
 npm install
 ```
@@ -202,18 +171,6 @@ npm install
 
 ---
 
-## Future Enhancements
-
-- [ ] Database integration (SQL Server, PostgreSQL, etc.)
-- [ ] User authentication and authorization
-- [ ] Task priorities and categories
-- [ ] Due dates and reminders
-- [ ] Search functionality
-- [ ] Task sorting options
-- [ ] Dark mode support
-
----
-
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -225,13 +182,3 @@ Contributions are welcome! Please follow these steps:
 5. Open a Pull Request
 
 ---
-
-## License
-
-This project is part of the Pathlock Competition. Please refer to the repository's main LICENSE file for details.
-
----
-
-## Support
-
-For issues, questions, or suggestions, please open an issue in the GitHub repository.
